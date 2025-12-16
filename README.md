@@ -1,4 +1,4 @@
-# 🎬 TV Show Search App
+<img width="1362" height="601" alt="image" src="https://github.com/user-attachments/assets/09b1e175-a222-4dff-a77b-582a4e51e783" /># 🎬 TV Show Search App
 
 A simple web application that allows users to search for TV shows using the **TVMaze API**.
 
@@ -19,11 +19,6 @@ A simple web application that allows users to search for TV shows using the **TV
 - JavaScript
 - Axios
 - TVMaze API
-
----
-
-## 📸 Screenshots
-(Add screenshots here)
 
 ---
 
